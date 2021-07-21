@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="ClassesAndObjects" Database="" Version="10000">
+  <Project Name="DeclareClass" Path="Classes/Classes.project" Active="No"/>
+  <Project Name="AccessClassMembers" Path="AccessClassMembers/AccessClassMembers.project" Active="No"/>
+  <Project Name="PrivateAndPublic" Path="PrivateAndPublic/PrivateAndPublic.project" Active="No"/>
+  <Project Name="ImplementingMemberMethods" Path="ImplementingMemberMethods/ImplementingMemberMethods.project" Active="No"/>
+  <Project Name="ImplementingMethodsFromFiles" Path="ImplementingMethodsFromFiles/ImplementingMethodsFromFiles.project" Active="No"/>
+  <Project Name="ConstructorsAndDestructors" Path="ConstructorsAndDestructors/ConstructorsAndDestructors.project" Active="No"/>
+  <Project Name="DefaultConstructor" Path="DefaultConstructor/DefaultConstructor.project" Active="No"/>
+  <Project Name="ConstructorInitializationLists" Path="ConstructorInitializationLists/ConstructorInitializationLists.project" Active="No"/>
+  <Project Name="DelegatingCOnstructors" Path="DelegatingCOnstructors/DelegatingCOnstructors.project" Active="No"/>
+  <Project Name="DefaultConstructorParameters" Path="DefaultConstructorParameters/DefaultConstructorParameters.project" Active="No"/>
+  <Project Name="CopyConstructor" Path="CopyConstructor/CopyConstructor.project" Active="No"/>
+  <Project Name="ShallowCopying" Path="ShallowCopying/ShallowCopying.project" Active="No"/>
+  <Project Name="MoveConstructor" Path="MoveConstructor/MoveConstructor.project" Active="No"/>
+  <Project Name="staticClassMembers" Path="staticClassMembers/staticClassMembers.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <Project Name="OperatorOverloading" Path="../OperatorOverloading/OperatorOverloading.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="DeclareClass" ConfigName="Debug"/>
+      <Project Name="AccessClassMembers" ConfigName="Debug"/>
+      <Project Name="PrivateAndPublic" ConfigName="Debug"/>
+      <Project Name="ImplementingMemberMethods" ConfigName="Debug"/>
+      <Project Name="ImplementingMethodsFromFiles" ConfigName="Debug"/>
+      <Project Name="ConstructorsAndDestructors" ConfigName="Debug"/>
+      <Project Name="DefaultConstructor" ConfigName="Debug"/>
+      <Project Name="ConstructorInitializationLists" ConfigName="Debug"/>
+      <Project Name="DelegatingCOnstructors" ConfigName="Debug"/>
+      <Project Name="DefaultConstructorParameters" ConfigName="Debug"/>
+      <Project Name="CopyConstructor" ConfigName="Debug"/>
+      <Project Name="ShallowCopying" ConfigName="Debug"/>
+      <Project Name="MoveConstructor" ConfigName="Debug"/>
+      <Project Name="staticClassMembers" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="OperatorOverloading" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="DeclareClass" ConfigName="Release"/>
+      <Project Name="AccessClassMembers" ConfigName="Release"/>
+      <Project Name="PrivateAndPublic" ConfigName="Release"/>
+      <Project Name="ImplementingMemberMethods" ConfigName="Release"/>
+      <Project Name="ImplementingMethodsFromFiles" ConfigName="Release"/>
+      <Project Name="ConstructorsAndDestructors" ConfigName="Release"/>
+      <Project Name="DefaultConstructor" ConfigName="Release"/>
+      <Project Name="ConstructorInitializationLists" ConfigName="Release"/>
+      <Project Name="DelegatingCOnstructors" ConfigName="Release"/>
+      <Project Name="DefaultConstructorParameters" ConfigName="Release"/>
+      <Project Name="CopyConstructor" ConfigName="Release"/>
+      <Project Name="ShallowCopying" ConfigName="Release"/>
+      <Project Name="MoveConstructor" ConfigName="Release"/>
+      <Project Name="staticClassMembers" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="OperatorOverloading" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
